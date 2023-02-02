@@ -1,0 +1,12 @@
+studi kasus 1: high order function
+- lambda
+- map()
+- filter()
+- sorted()
+
+studi kasus 3: functool module
+- @lru_cache()
+- partial()
+- reduce()
+
+
